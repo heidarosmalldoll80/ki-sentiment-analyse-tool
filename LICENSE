@@ -1,19 +1,24 @@
-MIT-Lizenz
+MIT License
 
-Copyright (c) 2023 Dein Name
+Copyright (c) 2023 Your Name
 
-Hiermit wird die Erlaubnis erteilt, kostenlos, an jede Person, die eine Kopie
- dieser Software und der damit verbundenen Dokumentationsdateien (die "Software") erhält, mit der Software ohne Einschränkungen umzugehen,
- einschließlich, aber nicht beschränkt auf die Rechte, die Software zu verwenden,
- zu kopieren, zu ändern, zu verbinden, zu veröffentlichen, zu vertreiben,
- Unterlizenzen zu erteilen und/oder Kopien der Software zu verkaufen,
- und Personen, denen die Software zur Verfügung gestellt wird, zu erlauben, dies zu tun,
- vorbehaltlich der folgenden Bedingungen:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
 
 ...
 
-Die oben genannten Urheberrechtsnoten und diese Erlaubnis müssen in allen Kopien oder substantiellen Teilen der Software enthalten sein.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-DIE SOFTWARE WIRD "WIE BESEHEN" BEREITGESTELLT, OHNE GARANTIE VON IRGENDEINER ART, AUSDRÜCKLICH ODER IMPLIZIERT, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GARANTIEN DER HANDELTÄGLICHKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-IN KEINEM FALL SIND DIE URHEBERRECHTSINHABER ODER DIE AUTOREN FÜR ANSPRUCHEN, SCHÄDEN ODER SONSTIGE HAFTUNGEN, OB IN EINEM HANDLUNGSVERFAHREN, VERTRAGSVERLETZUNG ODER ANDERWEITIG, HAFTBAR, DIE AUS DER NUTZUNG DER SOFTWARE ODER DER ANDEREN HANDELN, DIE AUS DER NUTZUNG DER SOFTWARE ENTSTEHEN, ENTSTEHEN.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
